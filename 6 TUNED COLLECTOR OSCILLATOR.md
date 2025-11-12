@@ -10,8 +10,9 @@
 
 # Output Graph
 
-<img width="947" height="494" alt="image" src="https://github.com/user-attachments/assets/8555b945-43a9-4dae-ae89-6235953b551e" />
+<img width="1912" height="921" alt="image" src="https://github.com/user-attachments/assets/f6297f3a-21d3-426e-91ea-1d5f3c9d0ebe" />
+
 
 # Result
 
-Thus the Tuned Collector Oscillator was designed and verified using LTSPICE.
+ Thus the simulation of Tuned Collector Oscillator using LTspice is  done and verified successfully.
