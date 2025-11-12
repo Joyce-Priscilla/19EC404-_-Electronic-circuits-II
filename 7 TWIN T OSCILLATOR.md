@@ -6,7 +6,7 @@
 
 # Circuit Diagram 
 
-<img width="900" height="666" alt="image" src="https://github.com/user-attachments/assets/3eb8aa68-305a-4552-9cfc-cad1e5b1cf37" />
+<img width="855" height="621" alt="image" src="https://github.com/user-attachments/assets/1330bc9e-9001-489a-bd26-a4e85a8fa565" />
 
 
 # Output Graph
