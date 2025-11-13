@@ -6,6 +6,11 @@
 <img width="764" height="1017" alt="image" src="https://github.com/user-attachments/assets/ed43c68a-3de3-4e1a-bf01-5b5fb8c70186" />
 
 ## Circuit Diagram 
+
+<img width="858" height="1280" alt="image" src="https://github.com/user-attachments/assets/1a2fa53a-4ec8-4c1a-92ab-602864589f1d" />
+
+<img width="1152" height="616" alt="image" src="https://github.com/user-attachments/assets/6fd787ec-d05e-4e6a-b455-beb394c5d1f8" />
+
 ## Without Feedback:
 <img width="637" height="365" alt="image" src="https://github.com/user-attachments/assets/191cd72d-ffbf-455c-8d74-09b13d791c7e" />
 
@@ -14,12 +19,11 @@
 
 ## Tabulation
 
+<img width="1152" height="1075" alt="image" src="https://github.com/user-attachments/assets/1485620a-deec-485b-9f18-ad70009e1483" />
 
 ## Graph
 
-
-## Sample images 
-
+<img width="1066" height="1280" alt="image" src="https://github.com/user-attachments/assets/911e4125-17b2-4d28-b9c0-3ac359f9a53a" />
 
 ## **Result**
 Thus, the **voltage series feedback amplifier** is designed and constructed.  
@@ -27,8 +31,8 @@ The following parameters are calculated:
 
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
+| 1 | Lower cut-off frequency | = 200Hz | = 100Hz|
+| 2 | Upper cut-off frequency | = 8KHz  | = 12KHz |
 | 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
 | 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
 | 5 | Gain at half power point |  |  |
