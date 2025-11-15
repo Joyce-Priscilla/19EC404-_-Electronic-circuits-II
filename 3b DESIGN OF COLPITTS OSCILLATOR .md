@@ -1,4 +1,4 @@
-<img width="1510" height="874" alt="image" src="https://github.com/user-attachments/assets/c0b8e980-574d-4027-8d89-06ac3007c2bd" />## Exp. No. 3(b)
+## Exp. No. 3(b)
 **Date:**  15.11.2025
 
 ## DESIGN OF COLPITTS OSCILLATOR 
